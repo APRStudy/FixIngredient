@@ -5,6 +5,12 @@ Here are the experimental results of our study on fix ingredients (i.e., change 
 ## Structure of the project
  ```powershell
   |--- README.md                              : user guidance
+  |--- src-code
+  |------ ChangeActions                          : source code for identification of change actions
+  |------ DonorCode
+  |--------- CodeSearch                          : source code for donor code search
+  |--------- CodeMatch                           : source code for donor code match
+  |--------- run.sh                              : shell script for running donor code search and match 
   |--- results
   |------ Change Actions
   |--------- Chart                                
