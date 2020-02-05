@@ -2,6 +2,11 @@
 
 Here are the experimental results of our study on fix ingredients (i.e., change actions and donor code) for automated program repair.
 
+## How to replicate the experiment
+
+Please refer to the [README](./src-code/README.md) in the subfolder.
+
+
 ## Structure of the project
  ```powershell
   |--- README.md                              : user guidance
