@@ -13,7 +13,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<akka.version>2.4.11</akka.version>
-		<poi.version>3.12</poi.version>
+		<poi.version>4.1.2</poi.version>
 	</properties>
 
 	<dependencies>
